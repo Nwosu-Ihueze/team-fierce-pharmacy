@@ -1,1 +1,1 @@
-# team-fierce-pharmacy
+Team fierce pharmacy repository
